@@ -125,7 +125,7 @@ Data analyst specialising in Power BI dashboard development across HR, marketing
 
 🔗 LinkedIn: www.linkedin.com/in/
 horsfall-inam-data-analyst
-| 📧 Email: horsfllinam@gmail.com
+| 📧 Email: horsfallinam@gmail.com
 
 ---
 
